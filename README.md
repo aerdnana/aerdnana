@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Andrea Thays
-- 👀 I’m interested in Game development
 - 🌱 I’m currently learning programming
 - 📫 How to reach me: andrearoman437@gmail.com
 
