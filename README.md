@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Andrea Thays
-- 🌱 I’m currently learning programming
+- 🌱 I’m currently studying SWE
 - 📫 How to reach me: andrearoman437@gmail.com
 
 <!---
