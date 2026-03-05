@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Andrea Thays
-- 🌱 I’m currently studying SWE
-- 📫 How to reach me: andrearoman437@gmail.com
+- Currently studying SWE
+- andrearoman437@gmail.com
 
 <!---
 aerdnana/aerdnana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
